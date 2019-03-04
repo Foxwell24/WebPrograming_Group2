@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin: 0 10%;
+    
+}
+
+.Top{
+    width: 530px;
+    height: 650px;
+   /* border: 10px solid; */
+    
+}
+
+.Box{
+    border: 1px solid;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+    text-align: center;
+    background-color: #822d10;
+
+}

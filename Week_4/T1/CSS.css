@@ -1,0 +1,26 @@
+.header-title {
+    font-family: Comic Sans MS;
+    color: #7E6000;
+}
+
+.squares {
+    width: 205px;
+    height: 205px;
+    margin: 25px;
+    display: inline-block;
+    line-height: 205px;
+    background-color: #7E6000;
+}
+
+body {
+    margin: 0 10%;
+    text-align: center;
+}
+
+hr {
+    border: dashed 1.5px black;
+}
+
+h2 {
+    color: #7E6000;
+}

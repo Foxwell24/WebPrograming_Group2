@@ -7,6 +7,7 @@ body{
     width: 530px;
     height: 650px;
    /* border: 10px solid; */
+   text-align: center;
     
 }
 
@@ -18,6 +19,5 @@ body{
     background-color: #822d10;
     text-align: center;
     display: inherit;
-    
-    
+        
 }

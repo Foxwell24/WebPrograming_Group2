@@ -1,0 +1,23 @@
+
+body {
+    background: lightskyblue;
+}
+
+div {
+    padding-left: 20px;
+    padding-bottom: 25px;
+
+}
+
+b {
+    font-size: 13px;
+}
+
+.container {
+    background: white;
+
+}
+
+.date {
+    color: purple;
+}

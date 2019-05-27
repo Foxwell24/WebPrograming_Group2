@@ -1,0 +1,11 @@
+#upgrades{
+    float: left;
+    margin-top: 10px;
+    
+}
+
+.upgrade{
+    float: left;
+    margin-right: 10px;
+    background-color: lightgray;
+}

@@ -4,8 +4,14 @@
     
 }
 
+#passiveCounter{
+    float: top;
+    
+}
+
 .upgrade{
     float: left;
     margin-right: 10px;
+    padding: 10px;
     background-color: lightgray;
 }
